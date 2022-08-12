@@ -9,7 +9,7 @@ namespace MyCalc
             return x + y;
         }
 
-        public int Sub(int x, int y)
+        public int Substract(int x, int y)
         {
             return x - y;
         }
